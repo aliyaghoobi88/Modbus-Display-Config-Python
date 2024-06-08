@@ -71,9 +71,6 @@ This project leverages the following libraries:
 - [pyserial](https://pyserial.readthedocs.io/en/latest/) for serial communication.
 - [minimalmodbus](https://minimalmodbus.readthedocs.io/en/stable/) for Modbus RTU communication.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
